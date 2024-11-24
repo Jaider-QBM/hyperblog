@@ -24,7 +24,7 @@
 - [Conclusión](#conclusión)
 
 ###
-
+---
 ### ¿Qué es Git? <a name="qué-es-git"></a>
 
 Git es un sistema de control de versiones distribuido que permite gestionar el historial de los archivos en un proyecto. Su principal ventaja es la posibilidad de trabajar de manera colaborativa y mantener un registro de todos los cambios realizados en el código fuente.
