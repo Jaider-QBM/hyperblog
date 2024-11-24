@@ -8,7 +8,7 @@
 
 ###
 
-## Tabla de Contenido
+### Tabla de Contenido
 
 - [¿Qué es Git?](#qué-es-git)
 - [Comandos más comunes](#comandos-más-comunes)
